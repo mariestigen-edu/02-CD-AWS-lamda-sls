@@ -1,3 +1,5 @@
+[![.github/workflows/sam-deploy.yml](https://github.com/mariestigen-edu/02-CD-AWS-lamda-sls/actions/workflows/sam-deploy.yml/badge.svg)](https://github.com/mariestigen-edu/02-CD-AWS-lamda-sls/actions/workflows/sam-deploy.yml)
+
 # GitHub actions, AWS Lambda med API Gateway og AWS SAM
 
 * I denne øvingen skal vi se på Github actions og hvordan vi kan sette opp en CD pipeline for en AWS Lambdafunksjon. 
